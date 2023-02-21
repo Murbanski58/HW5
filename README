@@ -1,2 +1,13 @@
-Maggie Urbanski
-Chicago Bears
+<!DOCTYPE html> 
+ 
+<html lang=“en”> 
+      <head> 
+<meta charset=“utf-8”> 
+<title> Git Test Page </title> 
+</head> 
+       
+<body> 
+        Maggie Urbanski
+        Chicago Bears
+      </body> 
+    </html> 
